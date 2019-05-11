@@ -1,0 +1,22 @@
+Select a difficulty level. If you're new to Minesweeper, start with Beginner.
+The number in the upper-left corner shows the number of mines on the board.
+The number on the right is the timer.
+Click any square to begin. Most Minesweeper players click random squares
+until a GROUP of squares "opens" up.
+If only one square opens after your click, then it would be better
+to find another random square to try to open a larger group of tiles.
+
+As you uncover tiles, you will see numbers revealed.
+A number means that there are that number of bombs
+touching that tile (horizontally, vertically, or diagonally).
+For example, if you see a 1 on the board, it means that square is touching exactly 1 mine.
+When you're certain you've found a mine, identify it by right-clicking the square.
+This will put a flag on the mine, and prevent you from clicking on it.
+If you are unsure, you are free to double click and mark the tile with a question mark.
+
+The game ends when the player has won by opening all cells and flagging all mines,
+or has clicked on a mine tile, in which case the player loses.
+
+Left clicking uncovers the contents of a given tile.
+Right clicking once marks a tile as a suspected bomb with a flag.
+Right clicking twice marks a tile as an unknown tile with a question mark.
